@@ -4,6 +4,7 @@
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", "O", "O", "O"]
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2] "
